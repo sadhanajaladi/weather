@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image:url('bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    text-align: center;
+    color:black;
+}
+label{
+    font-size: 25px;
+
+
+}
+
+#weather-info {
+    margin-top: 20px;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 25px;
+}
